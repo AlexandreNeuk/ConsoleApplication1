@@ -1,0 +1,4 @@
+c:\users\fullsoft\documents\visual studio 2015\Projects\ConsoleApplication1\SyncProject\bin\Debug\SyncProject.dll
+c:\users\fullsoft\documents\visual studio 2015\Projects\ConsoleApplication1\SyncProject\bin\Debug\SyncProject.pdb
+c:\users\fullsoft\documents\visual studio 2015\Projects\ConsoleApplication1\SyncProject\obj\Debug\SyncProject.dll
+c:\users\fullsoft\documents\visual studio 2015\Projects\ConsoleApplication1\SyncProject\obj\Debug\SyncProject.pdb

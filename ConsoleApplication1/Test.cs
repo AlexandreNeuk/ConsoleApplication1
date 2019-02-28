@@ -48,7 +48,7 @@ namespace ConsoleApplication1
             {
                 //GeraEmail();
                 //     
-                Register(new Random().Next(0, 32000), "");
+                Register(1, "");
                 System.Threading.Thread.Sleep(10000);
             }
             catch (Exception e)
